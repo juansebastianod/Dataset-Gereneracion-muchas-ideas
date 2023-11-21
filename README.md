@@ -1,7 +1,7 @@
-DATASET - GENERACION DE EMUCHAS IDEAS
+#DATASET - GENERACION DE MUCHAS IDEAS
 La generación de muchas ideas es una estrategia creativa que impulsa la innovación y la resolución de problemas al fomentar la producción de una amplia gama de conceptos sin restricciones iniciales.
 
-LLUVIA DE IDEAS 
+#LLUVIA DE IDEAS 
 Descripción
 En el proceso de innovación de generación de muchas ideas para el análisis de datos, nos sumergimos en la técnica de lluvia de ideas enfocadas en pro de la tecnología sobre el desarrollo de distintos tipos de software enfocados en temas como lo son la salud, cultura, educación, entre otros. Cada paso está meticulosamente alineado para extraer el máximo valor de nuestro conjunto de datos.
 
