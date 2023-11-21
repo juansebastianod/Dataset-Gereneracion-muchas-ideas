@@ -1,25 +1,25 @@
-#DATASET - GENERACION DE MUCHAS IDEAS
+# DATASET - GENERACION DE MUCHAS IDEAS
 La generación de muchas ideas es una estrategia creativa que impulsa la innovación y la resolución de problemas al fomentar la producción de una amplia gama de conceptos sin restricciones iniciales.
 
-#LLUVIA DE IDEAS 
+# LLUVIA DE IDEAS 
 Descripción
 En el proceso de innovación de generación de muchas ideas para el análisis de datos, nos sumergimos en la técnica de lluvia de ideas enfocadas en pro de la tecnología sobre el desarrollo de distintos tipos de software enfocados en temas como lo son la salud, cultura, educación, entre otros. Cada paso está meticulosamente alineado para extraer el máximo valor de nuestro conjunto de datos.
 
-Recopilación de la Data
+# Recopilación de la Data
 Datos internos (Archivos de texto, csv)
 Repositorio de datos abiertos (undata opendata)
 Broker de Datos (Experian, Acxiom)
 APIS
 Web scrapyn.
 
-Requisitos 
+# Requisitos 
 Python
 Bibliotecas:
   pandas
   sklearn
   matplotlib
 
-Instalación
+# Instalación
 
 Asegúrate de tener Python instalado en el sistema.
 
@@ -30,7 +30,7 @@ Ejecuta el siguiente comando para instalar las bibliotecas requeridas:
 pip install pandas sklearn matplotlib
 
 
-Importar Bibliotecas y Cargar Datos
+# Importar Bibliotecas y Cargar Datos
 
 import pandas as pd
 from sklearn.linear_model import LinearRegression
